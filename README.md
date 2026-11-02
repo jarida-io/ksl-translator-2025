@@ -1,4 +1,4 @@
-# KSL (Kenyan Sign Language) Translator
+# Ishara
 
 <div align="center">
 
