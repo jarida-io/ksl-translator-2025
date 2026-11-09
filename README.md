@@ -1,7 +1,7 @@
 # KSL Translator (2025)
 
-> **This is Jarida's 2025 Android app for Kenyan Sign Language, KSL Translator** (briefly named Ishara). It is no
-> longer developed; the last version is tagged `ksl-translator-2025`. Jarida's current KSL project is
+> **This is KSL Translator, Jarida's 2025 Android app for Kenyan Sign Language** (briefly named Ishara). The app as
+> of November 2026 is tagged `ksl-translator-2025`. Jarida's current KSL project is
 > **[Ashiria](https://github.com/jarida-io/ashiria)**, a new hands-first KSL practice app for Meta Quest.
 
 <div align="center">
